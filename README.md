@@ -15,3 +15,8 @@ A simple and responsive To-Do List web app built with HTML, CSS, and JavaScript.
 
 1. Type your task in the input field and click "Add" or press Enter.
 2. Click the edit icon to modify a task, or the trash icon to delete it.
+
+## Output ScreenShots
+![Alt Text](outputSS/1.png)
+![Alt Text](outputSS/2.png)
+   
